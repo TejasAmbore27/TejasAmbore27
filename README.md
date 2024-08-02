@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing the thing that feel me more happy i.e web designing #web_development
 - 🌱 I’m currently learning B.E in Computer Science and Engineering.
 - 💞️ I’m looking to collaborate o
-- 📫 How to reach me Instagram: @tejas_ambore27, Linkedin: @___
+- 📫 How to reach me Instagram: @tejas_ambore27, Linkedin: @tejasambore
 
 <!---
 TejasAmbore27/TejasAmbore27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
